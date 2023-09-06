@@ -1,7 +1,6 @@
 print('Hello World!!!')
-print('Hello World!!!!!!djadkadwa')
-print('nello')
-
+print('Hello World!!!!!!')
+print('Пщщв ин')
 
 
 
